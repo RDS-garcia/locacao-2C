@@ -29,5 +29,7 @@ Implementa a lógica de negócio da aplicação, separada dos controladores. Con
 Funções auxiliares e utilitárias reutilizáveis em diferentes partes da aplicação, como manipulação de senhas, validação de dados e operações com datas.
 
 Arquivos Principais
+
 app.js: Configura e inicializa a aplicação Express, carregando middlewares e rotas.
+
 server.js: Ponto de entrada da aplicação que inicia o servidor HTTP e realiza conexões com bancos de dados.

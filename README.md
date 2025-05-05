@@ -1,6 +1,6 @@
 # locacao-2C
 
-**backend
+BACKEND
 
 Estrutura do Projeto
 
